@@ -9,6 +9,9 @@
 &emsp;——dataloader（特征构造入口、用户表特征表构造入口等其他表基础操作）<br>
 &emsp;——utils（具体特征的构造、序列特征提取以及基础数据操作）<br>
 &emsp;——train_data.py（特征构造主程序）<br>
+## CTR模型
+  本项目最终搭建基于transformer加mlp的神经网络模型，具体如下：
+  ![Example Image](images/model.jpg)
 ## 特征构造
 训练数据生成<br>
 ```python

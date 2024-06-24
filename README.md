@@ -14,3 +14,7 @@
 ```python
 python train_data.py
 ```
+## 模型训练
+```python
+python DeepFM.py
+```

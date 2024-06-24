@@ -11,7 +11,7 @@
 &emsp;——train_data.py（特征构造主程序）<br>
 ## CTR模型
 &emsp;本项目最终搭建基于transformer加mlp的神经网络模型，具体如下：<br>
-![模型](/images/model.jpg)``
+![模型](/images/model.jpg)
 ## 特征构造
 训练数据生成<br>
 ```python

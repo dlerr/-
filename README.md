@@ -9,3 +9,8 @@
 &emsp;——dataloader（特征构造入口、用户表特征表构造入口等其他表基础操作）<br>
 &emsp;——utils（具体特征的构造、序列特征提取以及基础数据操作）<br>
 &emsp;——train_data.py（特征构造主程序）<br>
+## Usage
+训练数据生成<br>
+```python
+python train_data.py
+```
